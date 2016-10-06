@@ -1,0 +1,8 @@
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eRestaurantSystem.dll.config
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eRestaurantSystem.dll
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eRestaurantSystem.pdb
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eRestaurantSystem.Data.dll
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eRestaurantSystem.Data.pdb
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.csprojResolveAssemblyReference.cache
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.dll
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.pdb

@@ -23,6 +23,7 @@ namespace eRestaurantSystem.Data.Entities
         public string Comments { get; set; }
         public int MenuCategoryID { get; set; }
         public virtual MenuCategory MenCategory { get; set; }
+        public virtual ICollection<BillItem> BillItems { get; set; }
 
     }
 }
