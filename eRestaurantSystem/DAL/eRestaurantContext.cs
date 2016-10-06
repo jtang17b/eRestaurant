@@ -4,9 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+#region Additional Namspaces
+using eRestaurantSystem.Data.Entities;
+using System.Data.Entity;
+
+#endregion
 namespace eRestaurantSystem.DAL
 {
-    class eRestaurantContext
+    internal class eRestaurantContext:DbContext
     {
+        public eRestaurantContext():base("eRestaurantDB")
+        {
+
+        }
+
+        public DbSet<Item>Items { get; set; }
+        public DbSet<BillItem> BillItems { get; set; }
+        public DbSet<Bill> Bills { get; set; }
+        public DbSet<MenuCategory> MenuCategories { get; set; }
     }
 }

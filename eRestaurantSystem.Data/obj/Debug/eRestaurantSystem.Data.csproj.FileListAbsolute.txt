@@ -1,5 +1,4 @@
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem.Data\bin\Debug\eRestaurantSystem.Data.dll
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem.Data\bin\Debug\eRestaurantSystem.Data.pdb
-C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem.Data\obj\Debug\eRestaurantSystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem.Data\obj\Debug\eRestaurantSystem.Data.dll
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem.Data\obj\Debug\eRestaurantSystem.Data.pdb

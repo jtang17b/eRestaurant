@@ -6,3 +6,7 @@ C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\eResta
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.csprojResolveAssemblyReference.cache
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.dll
 C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\obj\Debug\eRestaurantSystem.pdb
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\EntityFramework.dll
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\EntityFramework.xml
+C:\Users\jtang17\Documents\GitHub\eRestaurant\eRestaurantSystem\bin\Debug\EntityFramework.SqlServer.xml
